@@ -1,0 +1,11 @@
+Warning (10268): Verilog HDL information at tb_project.v(286): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at project.v(1545): always construct contains both blocking and non-blocking assignments
+Info (10281): Verilog HDL Declaration information at project.v(307): object "Multi1" differs only in case from object "multi1" in the same scope
+Info (10281): Verilog HDL Declaration information at project.v(307): object "Multi2" differs only in case from object "multi2" in the same scope
+Info (10281): Verilog HDL Declaration information at project.v(307): object "Multi3" differs only in case from object "multi3" in the same scope
+Info (10281): Verilog HDL Declaration information at project.v(1463): object "Mult1" differs only in case from object "mult1" in the same scope
+Info (10281): Verilog HDL Declaration information at project.v(1463): object "Mult2" differs only in case from object "mult2" in the same scope
+Info (10281): Verilog HDL Declaration information at project.v(305): object "op1" differs only in case from object "OP1" in the same scope
+Info (10281): Verilog HDL Declaration information at project.v(305): object "op2" differs only in case from object "OP2" in the same scope
+Info (10281): Verilog HDL Declaration information at project.v(305): object "op3" differs only in case from object "OP3" in the same scope
+Info (10281): Verilog HDL Declaration information at project.v(305): object "op4" differs only in case from object "OP4" in the same scope
